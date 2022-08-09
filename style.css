@@ -1,0 +1,19 @@
+header{
+    height: 220px;
+    background-color: blueviolet;
+}
+
+footer{
+    height: 100px;
+    background-color: yellowgreen;
+}
+
+aside{
+    height: 200px;
+    background-color: red;
+}
+
+main{
+    height: 200px;
+    background-color: black;
+}
