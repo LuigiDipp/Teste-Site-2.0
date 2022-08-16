@@ -1,19 +1,40 @@
 header{
-    height: 220px;
-    background-color: blueviolet;
+
+    height: 0px;
+    position: relative;
+    top: 250px;
 }
 
 footer{
-    height: 100px;
-    background-color: yellowgreen;
+    background-image: url(https://igormiranda.com.br/wp-content/uploads/2021/02/iron-maiden-killers-1981-arte.jpg);
+    height: 400px;
+    width: 100%;
+}
+
+aside img{
+    width: 500px;
+    position: relative;
+    left: 100px;
+    
 }
 
 aside{
-    height: 200px;
-    background-color: red;
+    height: 800px;
+    background-color: white;
 }
 
 main{
-    height: 200px;
-    background-color: black;
+    background-color: pink;
+}
+
+h1{
+    padding-top: 20px;
+    position: relative;
+    left: 100px;
+}
+
+h6{
+    position: relative;
+    left: 100px;
+    text-align: justify;
 }
