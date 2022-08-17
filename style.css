@@ -1,36 +1,40 @@
 header{
+    height: 300px;
+    background-image: url(Iron-Maiden-Fonte.jpg);
 
-    height: 0px;
-    position: relative;
-    top: 250px;
 }
 
 footer{
-    background-image: url(https://igormiranda.com.br/wp-content/uploads/2021/02/iron-maiden-killers-1981-arte.jpg);
+    background-color: gray;
     height: 400px;
-    width: 100%;
 }
 
 aside img{
     width: 500px;
     position: relative;
+    bottom: 80px;
     left: 100px;
     
 }
 
 aside{
-    height: 800px;
+    height: 1300px;
     background-color: white;
 }
 
 main{
-    background-color: pink;
+    position: relative;
+    right: 30px;
+    background-color: #D3D3D3;
+    height: 900px;
+    border: 10px;
+    width: 1045px;
 }
 
 h1{
-    padding-top: 20px;
     position: relative;
     left: 100px;
+    top: 70px;
 }
 
 h6{
@@ -38,3 +42,115 @@ h6{
     left: 100px;
     text-align: justify;
 }
+
+#iron{
+    position: relative;
+    top: 20px;
+    margin: 25px;
+    width: 350px;
+    height: 400px;
+}
+
+#imgg{
+    position: relative;
+    left: 50px;
+    width: 300px;
+    top: 20px;
+}
+
+ul{
+    position: relative;
+    right: 15px;
+    top: 10px;
+}
+
+#a{
+    position: relative;
+    bottom: 26px;
+    left: 235px;
+}
+
+#b{
+    position: relative;
+    bottom: 26px;
+    left: 235px;
+}
+
+#c{
+    position: relative;
+    bottom: 26px;
+    left: 235px;
+}
+
+#d{
+    position: relative;
+    bottom: 26px;
+    left: 235px;
+}
+
+a{
+    position: relative;
+    left: 100px;
+}
+footer{
+    width: 100%;
+    height: 450px;
+}
+
+footer img{
+    position: relative;
+    top: 30px;
+    width: 370px;
+    height: 300px;
+    left: 450px;
+}
+
+#xd{
+    position: relative;
+    top: 400px;
+    left: 00px;
+    color: white;
+}
+
+#insta{
+    position: relative;
+    top: 400px; 
+    color: pink;
+}
+
+header a{
+    position: relative;
+    top: 240px;
+    left: 175px;
+    color: white;
+}
+
+#p1{
+    margin: 100px;
+    position: relative;
+}
+
+#p2{
+    margin: 100px;
+    position: relative;
+    bottom: 150px;
+}
+
+#p3{
+    margin: 100px;
+    position: relative;
+    bottom: 200px;
+}
+
+#p4{
+    margin: 100px;
+    position: relative;
+    bottom: 250px;
+}
+
+#a2{
+    position: relative;
+    top: 50px;
+}
+
+
